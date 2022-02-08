@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6969294e35e6d7446b5c8c79592e406a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _flyingCubeDataOne: {fileID: 11400000, guid: 0d148e913d5b5674894c27c382de0150,
+      type: 2}
+  - _flyingCubeDataTwo: {fileID: 11400000, guid: 32554b0d8dd895e4caaaa98cffd2ef92,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
